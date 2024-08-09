@@ -1,0 +1,13 @@
+﻿/* bhp.js
+Denna kod är del av WebAssistant.
+
+Mer info finns på https://gitlab.lkl.ltkalmar.se/oc/web-assistant. */
+
+.widthElements {
+   width: 500px !important;
+}
+
+.copyButtons {
+   float: right;
+   font-size: 13px;
+}
