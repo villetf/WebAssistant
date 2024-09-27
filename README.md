@@ -11,4 +11,4 @@ WebAssistant körs med hjälp av webbläsarpluginet [Custom JavaScript for Websi
 
 ## Installation
 
-Installationsinstruktioner finns [här.](https://servicedesk.lkl.ltkalmar.se/AddSolution.do?submitaction=viewsolution&fromListView=true&solutionID=1502)
+Installationsinstruktioner finns [här.](https://servicedesk.ltkalmar.se/AddSolution.do?submitaction=viewsolution&fromListView=true&solutionID=1502)

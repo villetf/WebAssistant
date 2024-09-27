@@ -1,7 +1,7 @@
 ﻿// servicedesk.js
 // Denna kod är del av WebAssistant.
 //
-// Mer info finns på https://gitlab.lkl.ltkalmar.se/oc/web-assistant.
+// Mer info finns på https://gitlab.ltkalmar.se/oc/web-assistant.
 
 
 

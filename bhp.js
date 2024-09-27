@@ -1,7 +1,7 @@
 ﻿// bhp.js
 // Denna kod är del av WebAssistant.
 //
-// Mer info finns på https://gitlab.lkl.ltkalmar.se/oc/web-assistant.
+// Mer info finns på https://gitlab.ltkalmar.se/oc/web-assistant.
 
 
 
@@ -93,7 +93,7 @@ function sendLog(buttonID, currentObject) {
       data = { token: 'xxxxxxxxxxxxxxxxxxxxxxxxxx', user: username, button: buttonID};
    }
 
-   fetch('https://serverx.lkl.ltkalmar.se/api/wass/log', {
+   fetch('https://serverx.ltkalmar.se/api/wass/log', {
       method: 'POST',
       headers: {
          'Content-Type': 'application/json'

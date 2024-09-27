@@ -1,11 +1,11 @@
 ﻿// webassistant.js
 // Denna kod är del av WebAssistant.
 //
-// Mer info finns på https://gitlab.lkl.ltkalmar.se/oc/web-assistant.
+// Mer info finns på https://gitlab.ltkalmar.se/oc/web-assistant.
 
 
 
-const domain = 'https://serverx.lkl.ltkalmar.se/wass';
+const domain = 'https://serverx.ltkalmar.se/wass';
 
 const wassCss = document.createElement('link');
 wassCss.rel = 'stylesheet';
@@ -15,11 +15,11 @@ const wassScript = document.createElement('script');
 const wassHead = document.querySelector('head');
 wassHead.appendChild(wassCss);
 
-if (window.location.href.startsWith('https://hsaweb.lkl.ltkalmar.se/bhp')) {
+if (window.location.href.startsWith('https://hsaweb.ltkalmar.se/bhp')) {
    wassScript.src = `${domain}/bhp.js`;
 }
 
-if (window.location.href.startsWith('https://servicedesk.lkl.ltkalmar.se/')) {
+if (window.location.href.startsWith('https://servicedesk.ltkalmar.se/')) {
    wassScript.src = `${domain}/servicedesk.js`;
 }
 
